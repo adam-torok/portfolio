@@ -1,12 +1,14 @@
-import './App.css'
+import './App.css';
+import Background from './components/Background';
 
 function App() {
+    // Use json server to fetch the details
 
-  return (
-    <>
-      <h1>Portfolio</h1>
-    </>
-  )
+    return (
+        <>
+            <Background />
+        </>
+    );
 }
 
-export default App
+export default App;

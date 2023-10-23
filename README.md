@@ -8,6 +8,11 @@
 This is my personal portfolio.
 
 - [ ] Use Tailwindcss
+- [ ] Multi language
+- [ ] Lazy load for images
+- [ ] tree.js
+- [ ] Cursor
+- [ ] Fill content
 - [ ] Learn about page transitions in React
 - [ ] Try redux for dark / light mode 🌞🌕
 - [ ] Adding a navbar
